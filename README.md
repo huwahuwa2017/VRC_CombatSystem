@@ -1,1 +1,1 @@
-# VRC_CombatSystem
+# VRC_HuwaCombat
